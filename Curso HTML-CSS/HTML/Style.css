@@ -1,0 +1,63 @@
+body{
+    background: #f7f7f7;
+    font-family: Verdana;
+    max-width: 900px;
+    margin: auto;
+}
+
+.Photo{
+    border: 1px #505050;
+    border-radius: 50%;
+
+}
+
+#Titulo, .Sub-titulo, .Posts{
+    color: #505050;
+}
+
+#Titulo{
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+a{
+    text-decoration: line-through;
+    color: #505050;
+}
+
+.Publicações{
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+    border-radius: 5px 10px;
+}
+
+.Postagem{
+    background: #fff;
+    padding: 10px;
+    border: 3px solid #505050;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+.conteudo{
+    margin: 0;
+    margin-bottom: 15px;
+    text-transform: capitalize;
+    text-align: justify;
+}
+
+.Imagem {
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.Lista{
+    list-style-type: none;
+    padding-left: 10px;
+}
+
+.Lista li a{
+    text-decoration: none;
+}
