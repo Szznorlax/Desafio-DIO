@@ -31,7 +31,7 @@ const Card = () => {
                 >
                     Remover                    
                 </Button>
-                <p>{valor}</p>
+                <p>{Valor}</p>
             </div>
         </div>
     )
